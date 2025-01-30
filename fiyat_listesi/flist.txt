@@ -1,0 +1,6 @@
+Kizartma: 75
+Ogle_Yemegi: 70
+Burger: 80
+Pizza: 75
+Cheese Burger: 90
+Icecekler: 10

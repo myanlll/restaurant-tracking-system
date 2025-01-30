@@ -1,0 +1,4 @@
+ --- Kızartma: 2.0 --- Oğlak: 2.0 --- Burger: 2.0 --- Pizza: 2.0 --- Cheeseburger: 2.0 --- İçecek: 2.0 --- Fiyat: 800.0 --- Servis: 80.0 --- KDV: 158.4 --- Alış Fiyatı: 238.4 --- Toplam Fiyat: 1038.4 --- Sipariş No: 1507.0
+
+ --- Kızartma: 0.0 --- Oğlak: 0.0 --- Burger: 0.0 --- Pizza: 0.0 --- Cheeseburger: 0.0 --- İçecek: 0.0 --- Fiyat: 0.0 --- Servis: 0.0 --- KDV: 0.0 --- Alış Fiyatı: 0.0 --- Toplam Fiyat: 0.0 --- Sipariş No: 1885.0
+

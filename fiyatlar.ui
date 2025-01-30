@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Fiyatlar</class>
+ <widget class="QWidget" name="Fiyatlar">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>363</width>
+    <height>262</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Fiyatlar</string>
+  </property>
+  <widget class="QWidget" name="horizontalLayoutWidget_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>200</y>
+     <width>340</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_3">
+    <item>
+     <widget class="QPushButton" name="push_kaydet">
+      <property name="text">
+       <string>Kaydet</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="push_cikis">
+      <property name="text">
+       <string>Çıkış</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>341</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="label_kiz">
+        <property name="text">
+         <string>Kızartma</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_ogl">
+        <property name="text">
+         <string>Öğle Yemeği</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_bur">
+        <property name="text">
+         <string>Burger</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_piz">
+        <property name="text">
+         <string>Pizza</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_che">
+        <property name="text">
+         <string>Cheese Burger</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_ice">
+        <property name="text">
+         <string>İçecekler</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <widget class="QLineEdit" name="lin_kiz"/>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lin_ogl"/>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lin_bur"/>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lin_piz"/>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lin_che"/>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lin_ice"/>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
